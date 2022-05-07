@@ -36,8 +36,7 @@ header {
     padding-bottom: 20px;
     padding-top: 40px;
     min-height: 150px;
-    max-width: 100%;
-}
+}h-
 
 header h1 {
     color: white;
@@ -56,6 +55,7 @@ header p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px black;
+    padding-bottom: 30px;
 }
 nav {
     background-color: #063d1e;
