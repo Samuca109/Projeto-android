@@ -33,10 +33,11 @@ header {
     background-color: var(--cor4);
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     padding-top: 40px;
     min-height: 150px;
-}h-
+
+}
 
 header h1 {
     color: white;
@@ -44,7 +45,7 @@ header h1 {
     font-family: var(--font-padrao);
     font-size: 3em;
     text-shadow: 2px 2px 0px black;
-    
+    padding-bottom: -10px;
 }
 header p {
     font-family: var(--font-padrao);
@@ -55,7 +56,7 @@ header p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px black;
-    padding-bottom: 30px;
+   
 }
 nav {
     background-color: #063d1e;
